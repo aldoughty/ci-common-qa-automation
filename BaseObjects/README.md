@@ -1,1 +1,0 @@
-# ci-qa-automation-common
